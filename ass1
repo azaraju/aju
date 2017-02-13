@@ -1,1 +1,14 @@
+variuos source of big data are :
+archieves,document,media,buisness app,social media,public web,data storage,machine log data,sensor data
 
+3V's of big data:
+Variety-From excel tables and databases, data structure has changed to loose its structure and to add hundreds of formats
+Velocity-Initially, companies analyzed data using a batch process. One takes a chunk of data,submits a job to the server and waits for delivery of the result  
+Volume-The size of available data has been growing at an increasing rate.
+
+horizontal and vertical scaling:
+Horizontal scaling:Horizontal scaling means that you scale by adding more machines into your pool of resources.
+vertical scaling:Vertical scaling means that you scale by adding more power (CPU, RAM) to an existing machine.
+
+Need for hadoop:
+To store large amount of data . compare to the other working platform hadoop can store large amount of data.
